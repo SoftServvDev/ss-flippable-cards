@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/ysKnYHD/SS-Flippable-Cards.png" alt="SS-Flippable-Cards" style="width: 400px; height: auto;">
 <br/>
 <h1>SS Flippable Cards</h1>
-<p>Easy to use flippable cards for React </p>
+<p>Easy to use flippable cards for React and Next.js</p>
 <br/>
 <br/>
 <h3>Usage</h3>
@@ -19,10 +19,10 @@ The code to utilize the cards is very straight forward, you have your main conta
 <b>Container Props</b>
 <br/>
 <br/>
-<i>style</i> is used to add any inline styles to the container
-<i>center</i> is used to center the items within the container **
-<i>evenly</i> is used to space the items evenly within the container **
-<i>between</i> is used to space-between the items within the container **
+<i>style</i> is used to add any inline styles to the container <br/>
+<i>center</i> is used to center the items within the container ** <br/>
+<i>evenly</i> is used to space the items evenly within the container ** <br/>
+<i>between</i> is used to space-between the items within the container ** <br/>
 <br/>
 **Only one of these should be used at a time, as they are different ways to format the item layout within the container.
 <br/>
