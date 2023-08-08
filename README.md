@@ -66,12 +66,12 @@ XXL: &gt;=1400px <br/>
 <b>Card Item Props</b>
 <br/>
 <br/>
-<i>style</i> is used for inline styling of the card (object) (*optional)
-<i>card_front_url</i> is used to give the front facing image URL of the card (string)
-<i>card_front_alt</i> is used to give the front facing image alt of the card (string) (*optional)
-<i>card_back_url</i> is used to give the rear facing image URL of the card (string)
-<i>try_button</i> is used to allow the use of the top button on the rear of the card (boolean) (*optional)
-<i>try_it_link</i> is used to give a link for the top button on the rear of the card (string)
-<i>try_text</i> is used to give the top button a different text other than "Try" if you wanted to use the button for something else (string) (*optional)
-<i>repo_link</i> is used to give the bottom button a link that is on the back of the card (string)
-<i>repo_text</i> is used to give the bottom button a different text other than "Repo" (string) (*optional)
+<i>style</i> is used for inline styling of the card (object) (*optional) <br/>
+<i>card_front_url</i> is used to give the front facing image URL of the card (string) <br/>
+<i>card_front_alt</i> is used to give the front facing image alt of the card (string) (*optional) <br/>
+<i>card_back_url</i> is used to give the rear facing image URL of the card (string) <br/>
+<i>try_button</i> is used to allow the use of the top button on the rear of the card (boolean) (*optional) <br/>
+<i>try_it_link</i> is used to give a link for the top button on the rear of the card (string) <br/>
+<i>try_text</i> is used to give the top button a different text other than "Try" if you wanted to use the button for something else (string) (*optional) <br/>
+<i>repo_link</i> is used to give the bottom button a link that is on the back of the card (string) <br/>
+<i>repo_text</i> is used to give the bottom button a different text other than "Repo" (string) (*optional) <br/>
