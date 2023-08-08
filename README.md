@@ -28,8 +28,6 @@ The code to utilize the cards is very straight forward, you have your main conta
 <br/>
 <br/>
 <h4>Card Item</h4>
-<br/>
-<br/>
 <i>&lt;SSPItem/&gt;</i>
 <br/>
 <br/>

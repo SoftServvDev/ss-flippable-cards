@@ -1,6 +1,6 @@
 {
   "name": "ss-flippable-cards",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A utility component that allows for the easy creation of flippable cards. These can be use in portfolios or any other project where an interactive card would be beneficial.",
   "main": "index.js",
   "scripts": {
