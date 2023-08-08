@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.center {
+    justify-content: center;
+}
+
+.evenly {
+    justify-content: space-evenly;
+}
+
+.between {
+    justify-content: space-between;
+}

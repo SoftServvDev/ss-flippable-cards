@@ -1,0 +1,25 @@
+{
+  "name": "ss-flippable-cards",
+  "version": "1.0.0",
+  "description": "A utility component that allows for the easy creation of flippable cards. These can be use in portfolios or any other project where an interactive card would be beneficial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SoftServvDev/ss-flippable-cards"
+  },
+  "keywords": [
+    "portfolio",
+    "cards",
+    "flip",
+    "flippable",
+    "ssp",
+    "softservv",
+    "react",
+    "nextjs"
+  ],
+  "author": "Chase Quinn",
+  "license": "ISC"
+}
